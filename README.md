@@ -1,6 +1,15 @@
 # pyt-client
 This project was generated with Generator-M-Ionic v1.8.0. For more info visit the [repository](https://github.com/mwaylabs/generator-m-ionic) or check out the README below.
 
+# How to Run First Time(pyt directions)
+
+    npm install
+    gulp watch
+    
+# How to Run Afterwards
+
+    gulp watch
+
 # Generator-M-Ionic v1.8.0
 
 [![NPM version](http://img.shields.io/npm/v/generator-m-ionic.svg?style=flat-square)][npm-url]
